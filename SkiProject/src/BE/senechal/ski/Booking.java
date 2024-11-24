@@ -1,4 +1,5 @@
 package BE.senechal.ski;
+
 public class Booking {
     private Skier skier;
     private Lesson lesson;
