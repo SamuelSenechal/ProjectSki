@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import BE.senechal.ex1.LessonType;
+import BE.senechal.ski.LessonType;
 
 public class LessonTypeDAO {
 

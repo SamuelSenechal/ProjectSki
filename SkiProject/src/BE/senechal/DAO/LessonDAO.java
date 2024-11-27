@@ -3,7 +3,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import BE.senechal.ex1.Lesson;
+import BE.senechal.ski.Lesson;
 
 public class LessonDAO {
 

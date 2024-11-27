@@ -5,9 +5,9 @@ import BE.senechal.DAO.AccreditationDAO;
 import BE.senechal.DAO.InstructorDAO;
 import BE.senechal.DAO.LessonDAO;
 import BE.senechal.DAO.LessonTypeDAO;
-import BE.senechal.ex1.Instructor;
-import BE.senechal.ex1.Lesson;
-import BE.senechal.ex1.LessonType;
+import BE.senechal.ski.Instructor;
+import BE.senechal.ski.Lesson;
+import BE.senechal.ski.LessonType;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;

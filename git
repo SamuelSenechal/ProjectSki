@@ -1,0 +1,29 @@
+[33mcommit e8767676e815718d8ddc571ed30f06b9a00ecdb7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mskier[m[33m, [m[1;32mdev[m[33m, [m[1;32mLesson[m[33m)[m
+Author: SenechalSamuel <smlsenechal@gmail.com>
+Date:   Tue Nov 26 20:05:04 2024 +0100
+
+    Add lessonDao and lessonFrame
+
+[33mcommit c7baecd0434a967902c17ec36afe481d6ac6328e[m[33m ([m[1;32maccreditation[m[33m)[m
+Author: SenechalSamuel <smlsenechal@gmail.com>
+Date:   Mon Nov 25 18:56:47 2024 +0100
+
+    add accreditationFrame and accreditationDAO
+
+[33mcommit f5c0dcc66aa4bbcfb8c8ebaec99d09c3e5fbfe05[m[33m ([m[1;32minstructor[m[33m)[m
+Author: SenechalSamuel <smlsenechal@gmail.com>
+Date:   Sun Nov 24 20:45:54 2024 +0100
+
+    add instructorFrame and instructorDAO
+
+[33mcommit 68772e1e4a89709a699e5663676170b536aa4127[m
+Author: SenechalSamuel <smlsenechal@gmail.com>
+Date:   Sun Nov 24 18:29:48 2024 +0100
+
+    adding all object classes
+
+[33mcommit 0692310fb2ce354aa84e78a19799d597cd9d3f14[m[33m ([m[1;32mmaster[m[33m)[m
+Author: SenechalSamuel <smlsenechal@gmail.com>
+Date:   Sun Nov 24 18:25:47 2024 +0100
+
+    initialization of the project

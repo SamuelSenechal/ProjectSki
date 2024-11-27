@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import BE.senechal.ex1.Accreditation;
-import BE.senechal.ex1.Instructor;
+import BE.senechal.ski.Accreditation;
+import BE.senechal.ski.Instructor;
 
 public class InstructorAccreditationDAO {
 

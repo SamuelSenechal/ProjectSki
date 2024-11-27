@@ -5,8 +5,8 @@ import javax.swing.*;
 import BE.senechal.DAO.AccreditationDAO;
 import BE.senechal.DAO.InstructorAccreditationDAO;
 import BE.senechal.DAO.InstructorDAO;
-import BE.senechal.ex1.Accreditation;
-import BE.senechal.ex1.Instructor;
+import BE.senechal.ski.Accreditation;
+import BE.senechal.ski.Instructor;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
