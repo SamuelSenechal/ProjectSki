@@ -3,7 +3,7 @@ package BE.senechal.frame;
 import javax.swing.*;
 
 import BE.senechal.DAO.SkierDAO;
-import BE.senechal.ex1.Skier;
+import BE.senechal.ski.Skier;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
